@@ -1,5 +1,3 @@
-import eruda from 'eruda';
-eruda.init();
 import * as PIXI from 'pixi.js';
 import Textures from './assets';
 
