@@ -1,5 +1,3 @@
-import * as PIXI from "https://unpkg.com/pixi.js@7.1.4/dist/pixi.min.mjs";
-
 const Textures = {
   bg: PIXI.Texture.from("./flap_back.png"),
   pipeTop: PIXI.Texture.from("./pipe_bottom.png"),
